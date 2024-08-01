@@ -9,3 +9,5 @@ Then set the systems parameters within the main program and run it:
 ```bash
 gfortran rho_x_exact.f90 && ./a.out
 ```
+
+And similarly procedures apply to other files. 
