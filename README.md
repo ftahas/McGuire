@@ -11,3 +11,5 @@ gfortran rho_x_exact.f90 && ./a.out
 ```
 
 And similarly procedures apply to other files. 
+
+For additional details, see [arXiv:2202.07657](https://arxiv.org/abs/2202.07657) and [arXiv:2308.06482](https://arxiv.org/abs/2308.06482).
